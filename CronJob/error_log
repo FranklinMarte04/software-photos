@@ -1,0 +1,28 @@
+[16-Oct-2017 09:32:17 America/Chicago] PHP Warning:  include(../../carrito/conexion.php): failed to open stream: No such file or directory in /home/bavaroad/public_html/CronJob/reporte.php on line 2
+[16-Oct-2017 09:32:17 America/Chicago] PHP Warning:  include(../../carrito/conexion.php): failed to open stream: No such file or directory in /home/bavaroad/public_html/CronJob/reporte.php on line 2
+[16-Oct-2017 09:32:17 America/Chicago] PHP Warning:  include(): Failed opening '../../carrito/conexion.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bavaroad/public_html/CronJob/reporte.php on line 2
+[16-Oct-2017 09:32:17 America/Chicago] PHP Warning:  require_once(../../functions/correo_functions.php): failed to open stream: No such file or directory in /home/bavaroad/public_html/CronJob/reporte.php on line 3
+[16-Oct-2017 09:32:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../functions/correo_functions.php' (include_path='.:/opt/php54/lib/php') in /home/bavaroad/public_html/CronJob/reporte.php on line 3
+[16-Oct-2017 10:33:36 America/Chicago] PHP Warning:  require_once(../../functions/correo_functions.php): failed to open stream: No such file or directory in /home/bavaroad/public_html/CronJob/reporte_reserva.php on line 3
+[16-Oct-2017 10:33:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../functions/correo_functions.php' (include_path='.:/opt/php54/lib/php') in /home/bavaroad/public_html/CronJob/reporte_reserva.php on line 3
+[16-Oct-2017 10:59:24 America/Chicago] PHP Parse error:  syntax error, unexpected '2017' (T_LNUMBER) in /home/bavaroad/public_html/CronJob/reporte_llegada.php on line 70
+[16-Dec-2017 17:30:23 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 9
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 10
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 11
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 75
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 9
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 10
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 11
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 112
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 9
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 10
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 11
+[16-Dec-2017 17:30:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 135
+[30-Dec-2017 17:30:39 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bavaroad/public_html/CronJob/reporte_diario.php on line 9
+[30-Dec-2017 17:[24-Apr-2018 09:14:34 America/Chicago] PHP Parse error:  syntax error, unexpected 't' (T_STRING) in /home/bavaroad/public_html/CronJob/gracias_suscribirnos.php on line 875
+[26-Jan-2019 15:28:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bavaroad/public_html/v1/CronJob/reporte_fotos.php on line 141
+[26-Jan-2019 15:28:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bavaroad/public_html/v1/CronJob/reporte_fotos.php on line 209
+[26-Jan-2019 15:29:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bavaroad/public_html/v1/CronJob/reporte_fotos.php on line 141
+[26-Jan-2019 15:29:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bavaroad/public_html/v1/CronJob/reporte_fotos.php on line 209
+[26-Jan-2019 15:29:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bavaroad/public_html/v1/CronJob/reporte_fotos.php on line 141
+[26-Jan-2019 15:29:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bavaroad/public_html/v1/CronJob/reporte_fotos.php on line 209

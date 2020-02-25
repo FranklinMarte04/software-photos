@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "bap"
+AuthUserFile "/home4/antonyvs/.htpasswds/public_html/bap/passwd"
+require valid-user
